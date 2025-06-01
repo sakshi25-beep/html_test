@@ -1,2 +1,2 @@
-# html_test
+# html
 this is a test repo to put my html project
